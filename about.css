@@ -1,0 +1,44 @@
+h1{
+  text-align: center;
+
+  padding: 5px;
+  margin: 10px;
+}
+
+.hob-work{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.hob-work img {
+  width: 150px; 
+}
+
+.h{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  background-color:rgba(255, 255, 255, 0.473);
+
+  padding: 10px;
+  margin: 10px;
+}
+
+.h h3{
+  width: 300px;
+  text-align: center;
+}
+
+.w{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+h3{
+  width: 20px;
+  font-family: 'Calligraffitti', cursive;
+}

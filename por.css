@@ -1,0 +1,35 @@
+
+.porfolio{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    padding: 10px;
+}
+
+.pp{
+    width: 200px;
+    
+    background-color:rgba(255, 255, 255, 0.473);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+img{
+  width: 200px;
+}
+
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  margin-top: 10px;
+}
+
+h3{
+  text-align: center;
+}

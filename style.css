@@ -1,0 +1,55 @@
+*{
+  margin: 0px;
+}
+
+
+/* STYLE BODY */
+
+body {
+ background-image: url(oo.jpg)
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: 'Calligraffitti', cursive;
+  
+}
+
+/* STYLE NAV BAR */
+
+nav{
+  background-color: rgba(207, 197, 182, 0.637);
+  display: flex;
+  justify-content: space-between;
+
+  padding: 5px;
+}
+
+nav img{
+  width: 50px;
+
+  padding-left: 35px;
+
+}
+
+ul{
+  list-style-type: none;
+  padding: 9px;
+}
+
+li{
+  display: inline;
+
+  padding: 10px;
+}
+
+li a {
+  text-decoration: none;
+  font-family: 'Calligraffitti', cursive;
+  color: black;
+  font-size: 20px;
+}
+
+

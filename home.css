@@ -1,0 +1,37 @@
+.info{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin: 20px;
+}
+
+.info-img img{
+  width: 300px;
+}
+
+.info-info{
+  width: 400px;
+}
+
+.info-info p {
+  margin-bottom: 40px;}
+
+.photo{
+  margin: 20px;
+}
+
+.ft{
+  /*display: flex;
+  justify-self: space-around;
+  flex-wrap: wrap;
+  align-items: center;*/
+  text-align: center; 
+  
+}
+
+.ft img{
+  width: 200px;
+  
+}
